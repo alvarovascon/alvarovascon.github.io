@@ -3,6 +3,10 @@ h1 {
    font-family: 'Montserrat', sans-serif;
 }
 
+h3 {
+    font-size: 20px;
+}
+
 .quem_sou {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style:italic
@@ -22,10 +26,17 @@ body{
 
 .imagem {
     border-radius: 50%;
+    width: 360px;
 }
 
 .nome {
     text-align: center;
+    margin-top:20px;
+    margin-bottom: 60px;
+}
+
+.indice{
+    font-size: 18px;
 }
 
 .foto-e-descricao{
@@ -36,7 +47,22 @@ body{
 
 .conjunto-descritivo {
     width: 40%;
-    margin: 25px;
+    margin: 55px;
     display: inline-block;
     vertical-align: middle;
+}
+
+.conjunto-descritivo img {
+    padding: 35px;
+    background-color: rgb(200,200,200);
+}
+.lista-habilidades {
+    line-height: 30px;
+}
+
+.impar{
+    text-decoration: underline;
+    background-color:#135364;
+    display: inline;
+    padding: 5px;
 }
