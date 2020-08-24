@@ -1,0 +1,68 @@
+
+h1 {
+   font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.quem_sou {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic
+}
+
+.xlarge {
+    font-size: 28px;
+}
+
+.large {
+    font-size: 18px;
+}
+
+body{ 
+    background-color: #ffddd2;
+}
+
+.imagem {
+    border-radius: 50%;
+    width: 360px;
+}
+
+.nome {
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 60px;
+}
+
+.indice{
+    font-size: 18px;
+}
+
+.foto-e-descricao{
+    padding: 30px 50px;
+    width: 90%;
+    margin: auto;
+}
+
+.conjunto-descritivo {
+    width: 40%;
+    margin: 55px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.conjunto-descritivo img {
+    padding: 35px;
+    background-color: rgb(200,200,200);
+}
+.lista-habilidades {
+    line-height: 30px;
+}
+
+.impar{
+    text-decoration: underline;
+    background-color:#135364;
+    display: inline;
+    padding: 5px;
+}
