@@ -1,0 +1,42 @@
+
+h1 {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.quem_sou {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic
+}
+
+.xlarge {
+    font-size: 28px;
+}
+
+.large {
+    font-size: 18px;
+}
+
+body{ 
+    background-color: #ffddd2;
+}
+
+.imagem {
+    border-radius: 50%;
+}
+
+.nome {
+    text-align: center;
+}
+
+.foto-e-descricao{
+    padding: 30px 50px;
+    width: 90%;
+    margin: auto;
+}
+
+.conjunto-descritivo {
+    width: 40%;
+    margin: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
